@@ -1,0 +1,23 @@
+table, tr, th, td {
+    border: 1px
+}
+body {
+    background-color: green;
+    color: white;
+}
+input{
+    border-color: red;
+}
+
+.caja{
+    border:2px solid aqua;
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    font-style:normal;
+}
+.caja1 {
+    width: 150px;
+    margin-right: 50px;
+ 
+}

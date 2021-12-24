@@ -1,0 +1,11 @@
+body {
+    background-color: green;
+    border: red;
+    color: white;
+    border-bottom: 20px;
+    border-top: 20px;
+}
+.texto {
+    color: white;
+    border: red
+}

@@ -1,0 +1,28 @@
+table, tr, th, td {
+    border: 1px solid black;
+}
+body {
+    background-color: cyan;
+}
+input{
+    border-color: red;
+}
+
+
+th{
+background-color: white;
+
+}
+td{
+    background-color: white;
+    margin: auto;
+}
+.pana {
+    background-color: black;
+}
+.cafe {
+    background-color: chocolate;
+}
+.precio {
+    background-color: lawngreen;
+}
